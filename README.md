@@ -1,7 +1,3 @@
-# HoraSaida
-
-Aplicação web desenvolvida com Next.js 16, React 19 e Ant Design para gerenciamento de horários de saída.
-
 ## 📋 Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
